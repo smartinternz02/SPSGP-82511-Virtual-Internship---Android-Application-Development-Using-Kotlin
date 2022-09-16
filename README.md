@@ -1,7 +1,7 @@
 # SPSGP-59200-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
 
-[custom-splash-screen]
+![custom-splash-screen]
 (https://user-images.githubusercontent.com/60892009/190709299-d71d1a92-682f-4c4c-8a5a-a9241cff3c9d.gif)
 
 
