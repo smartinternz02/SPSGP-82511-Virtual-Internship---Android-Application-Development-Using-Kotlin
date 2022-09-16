@@ -48,3 +48,14 @@ main screen
 
 
 ![main screen](https://user-images.githubusercontent.com/60892009/190709924-99c71ea8-084b-4d92-b968-c28fe86d18a7.jpeg)
+
+
+
+
+
+
+Technologies Used:
+1) View-Binding
+2) MVVM
+3) Room-Database
+4) Coroutines
