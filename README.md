@@ -59,3 +59,4 @@ Technologies Used:
 2) MVVM
 3) Room-Database
 4) Coroutines
+5) Firebase authentication
