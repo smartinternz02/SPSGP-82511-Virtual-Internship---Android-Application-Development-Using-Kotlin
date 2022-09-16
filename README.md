@@ -16,8 +16,35 @@ login-screen
 
 ![login screen](https://user-images.githubusercontent.com/60892009/190709883-60a883a7-a2a1-4214-963d-42c59f18a459.jpeg)
 
+
+
+
+registration-screen
+
+
+
 ![registration screen](https://user-images.githubusercontent.com/60892009/190709906-60dd3cae-6334-470b-8dbd-5cd1911811f6.jpeg)
 
+
+
+
+
+
+new-item layout
+
+
+
+
+
 ![new item layout](https://user-images.githubusercontent.com/60892009/190709921-0910b9f2-84ca-4311-97f8-5c3aeb98ea07.jpeg)
+
+
+
+main screen
+
+
+
+
+
 
 ![main screen](https://user-images.githubusercontent.com/60892009/190709924-99c71ea8-084b-4d92-b968-c28fe86d18a7.jpeg)
